@@ -1,0 +1,13 @@
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\bin\Debug\netcoreapp3.1\workshop2.exe
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\bin\Debug\netcoreapp3.1\workshop2.deps.json
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\bin\Debug\netcoreapp3.1\workshop2.runtimeconfig.json
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\bin\Debug\netcoreapp3.1\workshop2.runtimeconfig.dev.json
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\bin\Debug\netcoreapp3.1\workshop2.dll
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\bin\Debug\netcoreapp3.1\workshop2.pdb
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.csprojAssemblyReference.cache
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.AssemblyInfoInputs.cache
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.AssemblyInfo.cs
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.csproj.CoreCompileInputs.cache
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.dll
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.pdb
+E:\EXIA\Année 3\3. Programmation Système\Prosit 2\workshop2\workshop2\obj\Debug\netcoreapp3.1\workshop2.genruntimeconfig.cache
